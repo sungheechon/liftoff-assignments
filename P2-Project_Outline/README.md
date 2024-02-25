@@ -7,12 +7,36 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Create a portfolio website to showcase my skills as a full-stack web developer.
+The website will have have a list of my skills, tools, and link to portfolio page of working webpages and applications.
+The target audiences are recruiters and future employers. They will be able to see my capabilites as a developer.
+Domain name: Sunghee.com
+
+
 ### Features
-Include Features here
+Search function
+Sort
+
 ### Technologies
-Include Technologies here
+JavaScript
+React
+HTML/CSS
+Bootstrap
+API
+Java
+Spring Boot
+Thymeleaf templates,
+Hibernate
+MySQL
+Section 508-compliance
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Web server (AWS)
+Bootstrap
+API
+Section 508
+Linux
+
 ### Project Tracker
-Link to your Trello board here
+<!-- Link to your Trello board here -->
